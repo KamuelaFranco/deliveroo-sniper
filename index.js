@@ -7,7 +7,7 @@ if (process.argv.length < 3) {
 }
 
 const postcode = process.argv[2];
-const endpoint = `https://deliveroo.co.uk/restaurants/nottingham/the-meadows?postcode=${postcode}`;
+const endpoint = `https://deliveroo.co.uk/restaurants/postcode=${postcode}`;
 const timeoutDuration = 30000;
 const normalNumberOfAsapRestaurants = 3;
 
