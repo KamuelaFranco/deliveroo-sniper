@@ -1,2 +1,2 @@
-# deliveroo-open-alert
-Pings you when Deliveroo is ready
+# deliveroo-sniper
+Pings you when Deliveroo is ready.
